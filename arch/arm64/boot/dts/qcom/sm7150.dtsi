@@ -4489,6 +4489,7 @@
 			status = "disabled";
 		};
 
+
 		slimbam: dma-controller@62e04000 {
 			compatible = "qcom,bam-v1.7.4", "qcom,bam-v1.7.0";
 			reg = <0 0x62e04000 0 0x20000>;
